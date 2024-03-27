@@ -1,0 +1,19 @@
+{
+  "name": "ordinals_runes_evm",
+  "version": "1.0.0",
+  "description": "A simulator for BTC, and an implementation of the Ordinals protocol and Runes protocol in the EVM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "hardhat": "^2.20.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
